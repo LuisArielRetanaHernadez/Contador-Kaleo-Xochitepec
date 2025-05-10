@@ -5,7 +5,13 @@ function App() {
 
   return (
     <>
+      <section>
+        {/* header */}
 
+        {/* information */}
+
+        {/* footer */}
+      </section>
     </>
   )
 }
